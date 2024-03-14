@@ -14,14 +14,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm Kosei
+## My Profile
 <details>
   <summary>🤪 &nbsp;Hi there 👋</summary>
   <br>
-  
 -  😄 I’m researching "The empirical investigation into the impact of test-code refactoring".
--  😍 I am interested in Software Engineering/Design/Analysis.
+-  😍 I am interested in Software Engineering/Analysis.
+</details>
 
+<details>
+  <summary>🏫 &nbsp;Education </summary>
+  <br>
+- 2017-2022: National Institute of Technology, Nara College (NIT, Nara College), Department of Information Engineering, Associate Degree
+- 2022-2024: National Institute of Technology, Nara College (NIT, Nara College) Faculty of Advanced Engineering, Department of Systems Creation Engineering, Information Systems Course, Bachelor's Degree
+- Current: Nara Institute of Science and Technology (NAIST), Graduate School of Science　and Technology, Information Science Area
 </details>
 
 <details>
@@ -31,7 +37,7 @@ Here are some ideas to get you started:
 
 | Level | Languages |
 | ------- | ------- |
-| Frequently used | ![![My Skills](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev) |
+| Frequently used | ![![My Skills](https://skillicons.dev/icons?i=py,java)](https://skillicons.dev) |
 | Occasionally used | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)|
 | Rarely used | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) |
 
