@@ -34,7 +34,6 @@ Here are some ideas to get you started:
   <summary>🔨 &nbsp;Programming Skills</summary>
   <br>
   
-
 | Level | Languages |
 | ------- | ------- |
 | Frequently used | [![My Skills](https://skillicons.dev/icons?i=py,java)](https://skillicons.dev) |
@@ -42,8 +41,6 @@ Here are some ideas to get you started:
 | Rarely used | [![My Skills](https://skillicons.dev/icons?i=c,cs)](https://skillicons.dev) |
 | Future learning | [![My Skills](https://skillicons.dev/icons?i=dart,flutter,go)](https://skillicons.dev) |
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
- ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
 </details>
 
 ## 📈 Status
