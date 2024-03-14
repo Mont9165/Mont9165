@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <br>
 - 2017-2022: National Institute of Technology, Nara College (NIT, Nara College), Department of Information Engineering, Associate Degree <br>
 - 2022-2024: National Institute of Technology, Nara College (NIT, Nara College) Faculty of Advanced Engineering, Department of Systems Creation Engineering, Information Systems Course, Bachelor's Degree <br>
-- Current: Nara Institute of Science and Technology (NAIST), Graduate School of Science　and Technology, Information Science Area <br>
+- 2024-Present: Nara Institute of Science and Technology (NAIST), Graduate School of Science　and Technology, Information Science Area <br>
 </details>
 
 <details>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 | Frequently used | [![My Skills](https://skillicons.dev/icons?i=py,java)](https://skillicons.dev) |
 | Occasionally used | [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,docker,github)](https://skillicons.dev) |
 | Rarely used | [![My Skills](https://skillicons.dev/icons?i=c,cs)](https://skillicons.dev) |
-
+| Future learning | [![My Skills](https://skillicons.dev/icons?i=dart,flutter,go)](https://skillicons.dev) |
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
  ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
