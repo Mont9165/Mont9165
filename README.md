@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <details>
   <summary>🤪 &nbsp;Hi there 👋</summary>
   <br>
--  😄 I’m researching "The empirical investigation into the impact of test-code refactoring".
--  😍 I am interested in Software Engineering/Analysis.
+- 😄 I’m researching "The empirical investigation into the impact of test-code refactoring".
+- 😍 I am interested in Software Engineering/Analysis.
 </details>
 
 <details>
@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 | Level | Languages |
 | ------- | ------- |
-| Frequently used | ![![My Skills](https://skillicons.dev/icons?i=py,java)](https://skillicons.dev) |
-| Occasionally used | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)|
-| Rarely used | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) |
+| Frequently used | [![My Skills](https://skillicons.dev/icons?i=py,java)](https://skillicons.dev) |
+| Occasionally used | [![My Skills](https://skillicons.dev/icons?i=js,HTML,css,cpp)](https://skillicons.dev) |
+| Rarely used | [![My Skills](https://skillicons.dev/icons?i=c,cs)](https://skillicons.dev) |
 
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
