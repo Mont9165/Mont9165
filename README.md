@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 <details>
   <summary>🏫 &nbsp;Education </summary>
   <br>
-- 2017-2022: National Institute of Technology, Nara College (NIT, Nara College), Department of Information Engineering, Associate Degree
-- 2022-2024: National Institute of Technology, Nara College (NIT, Nara College) Faculty of Advanced Engineering, Department of Systems Creation Engineering, Information Systems Course, Bachelor's Degree
-- Current: Nara Institute of Science and Technology (NAIST), Graduate School of Science　and Technology, Information Science Area
+- 2017-2022: National Institute of Technology, Nara College (NIT, Nara College), Department of Information Engineering, Associate Degree <br>
+- 2022-2024: National Institute of Technology, Nara College (NIT, Nara College) Faculty of Advanced Engineering, Department of Systems Creation Engineering, Information Systems Course, Bachelor's Degree <br>
+- Current: Nara Institute of Science and Technology (NAIST), Graduate School of Science　and Technology, Information Science Area <br>
 </details>
 
 <details>
