@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <details>
   <summary>🤪 &nbsp;Hi there 👋</summary>
   <br>
-- 😄 I’m researching "The empirical investigation into the impact of test-code refactoring".
-- 😍 I am interested in Software Engineering/Analysis.
+- 😄 I’m researching "The empirical investigation into the impact of test-code refactoring". <br>
+- 😍 I am interested in Software Engineering/Analysis. <br>
 </details>
 
 <details>
@@ -31,14 +31,14 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary>🔨 &nbsp;Programming languages</summary>
+  <summary>🔨 &nbsp;Programming Skills</summary>
   <br>
   
 
 | Level | Languages |
 | ------- | ------- |
 | Frequently used | [![My Skills](https://skillicons.dev/icons?i=py,java)](https://skillicons.dev) |
-| Occasionally used | [![My Skills](https://skillicons.dev/icons?i=js,HTML,css,cpp)](https://skillicons.dev) |
+| Occasionally used | [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,docker,github)](https://skillicons.dev) |
 | Rarely used | [![My Skills](https://skillicons.dev/icons?i=c,cs)](https://skillicons.dev) |
 
 
