@@ -41,6 +41,9 @@ Here are some ideas to get you started:
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mont9165&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Mont9165&theme=onedark&show_icons=ture" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikiyonekura&show_icons=true&theme=dracula&hide_progress=true&hide=Cython,HTML,CSS,PowerShell,shell,Roff,Procfile&langs_count=8"/>
+</a>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mont9165&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
