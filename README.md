@@ -1,47 +1,52 @@
-### Hi there 👋
+# Profile
 
-<!--
-**Mont9165/Mont9165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## My Profile
-- 😄 I’m researching "The empirical investigation into the impact of test-code refactoring". <br>
-- 😍 I am interested in Software Engineering/Analysis. <br>
+## About Me
+- 🔬 **Research**:    Investigating the empirical impact of test-code refactoring
+- 🎓 **Current**:  M2 @ NAIST
+- 💡 **Interests**:  Software Testing / Refactoring / Code Quality
+- 🔍 **Looking for**: Research internship opportunities (2026-2027)
 
 
+### 📝 Publications
+- **How Does Test Code Differ From Production Code in Terms of Refactoring? An Empirical Study**  
+  Kosei Horikawa, Yutaro Kashiwa, Bin Lin, Kenji Fujiwara, Hajimu Iida  
+  [ICSME 2025 (NIER Track)](https://ieeexplore.ieee.org/document/11185926)
 
-### 🏫 &nbsp;Education
-- 2017-2022: National Institute of Technology, Nara College (NIT, Nara College), Department of Information Engineering, Associate Degree <br>
-- 2022-2024: National Institute of Technology, Nara College (NIT, Nara College) Faculty of Advanced Engineering, Department of Systems Creation Engineering, Information Systems Course, Bachelor's Degree <br>
-- 2024-Present: Nara Institute of Science and Technology (NAIST), Graduate School of Science　and Technology, Information Science Area <br>
+- **An Empirical Investigation into Maintenance of Load Testing Scripts**  
+  Ibuki Nakamura, Kosei Horikawa, Brittany Reid, Yutaro Kashiwa, Hajimu Iida  
+  [ESEM 2025 (ERVT Track)](https://conf.researchr.org/details/esem-2025/esem-2025-vision-and-emerging-results-track-/5/An-Empirical-Investigation-into-Maintenance-of-Load-Testing-Scripts)
 
+### 🏆 Awards
+| Year | Award |
+|------|-------|
+| 2025 | 🥇 Best International Poster Award, [IPSJ/SIGSE Software Engineering Symposium](https://ses.sigse.jp/2025/#:~:text=Best%20International%20Poster%20Award) |
 
+### 🔬 Research Experience
+| Period | Institution | Role |
+|--------|-------------|------|
+| Sep 2025 – Nov 2025 | 🇨🇦 Queen's University | Visiting Student |
+| Jun 2025 – Jul 2025 | 🇨🇳 Hangzhou Dianzi University | Visiting Student |
+| Sep 2024 – Nov 2024 | 🇳🇱 Radboud University | Visiting Student |
 
-### 🔨 &nbsp;Programming Skills
-| Level | Languages |
-| ------- | ------- |
-| Frequently used | [![My Skills](https://skillicons.dev/icons?i=py,java,cs)](https://skillicons.dev) |
-| Occasionally used | [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,docker,github)](https://skillicons.dev) |
-| Rarely used | [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) |
-| Future learning | [![My Skills](https://skillicons.dev/icons?i=dart,flutter,go)](https://skillicons.dev) |
+### 💼 Industry Experience
+| Period | Company | Role |
+|--------|---------|------|
+| Mar 2025 – Apr 2025 | 🇯🇵 Recruit Co., Ltd. | Part-time QA Engineer |
+| Nov 2024 – Dec 2024 | 🇯🇵 Recruit Co., Ltd. | QA Engineer Intern |
 
+### 🏫 Education
+| Year | Institution | Program |
+|------|-------------|---------|
+| 2024- | Nara Institute of Science and Technology (NAIST) | Master's, Information Science |
+| 2022-2024 | NIT, Nara College | Bachelor's, Information Systems |
+| 2017-2022 | NIT, Nara College | Associate Degree, Information Engineering |
 
+### 🔨 Tech Stack
+| Purpose | Technologies |
+|---------|--------------|
+| Research & Analysis | [![Skills](https://skillicons.dev/icons?i=py,java,docker,github)](https://skillicons.dev) |
+| Development | [![Skills](https://skillicons.dev/icons?i=cs,docker,js,selenium,aws)](https://skillicons.dev) |
+| Exploring | [![Skills](https://skillicons.dev/icons?i=dart,flutter,go)](https://skillicons.dev) |
 
-## 📈 Status
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mont9165&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Mont9165&theme=onedark&show_icons=ture" />
-</a>
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mont9165&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+### 📫 Contact
+- GitHub: [@Mont9165](https://github.com/Mont9165)
