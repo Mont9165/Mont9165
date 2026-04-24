@@ -2,7 +2,7 @@
 
 ## About Me
 - 🔬 **Research**:    Investigating the empirical impact of test-code refactoring
-- 🎓 **Current**:  M2 @ NAIST
+- 🎓 **Current**:  D1 @ NAIST
 - 💡 **Interests**:  Software Testing / Refactoring / Code Quality
 - 🔍 **Looking for**: Research internship opportunities (2026-2027)
 
