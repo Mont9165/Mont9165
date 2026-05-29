@@ -12,7 +12,7 @@
 #### First Author
 - **Agentic Refactoring: An Empirical Study of AI Coding Agents**  
   **Kosei Horikawa**, Hao Li, Yutaro Kashiwa, Bram Adams, Hajimu Iida, Ahmed E. Hassan  
-  [arXiv:2511.04824](https://arxiv.org/abs/2511.04824) (2025)
+  [arXiv:2511.04824](https://arxiv.org/abs/2511.04824) (2026)
 
 - **How Does Test Code Differ From Production Code in Terms of Refactoring? An Empirical Study**  
   **Kosei Horikawa**, Yutaro Kashiwa, Bin Lin, Kenji Fujiwara, Hajimu Iida  
@@ -52,7 +52,8 @@
 ### 🏫 Education
 | Year | Institution | Program |
 |------|-------------|---------|
-| 2024- | Nara Institute of Science and Technology (NAIST) | Master's, Information Science |
+| 2026- | Nara Institute of Science and Technology (NAIST) | Doctoral, Information Science |
+| 2024-2026 | Nara Institute of Science and Technology (NAIST) | Master's, Information Science |
 | 2022-2024 | NIT, Nara College | Bachelor's, Information Systems |
 | 2017-2022 | NIT, Nara College | Associate Degree, Information Engineering |
 
