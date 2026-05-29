@@ -8,12 +8,27 @@
 
 
 ### 📝 Publications
+
+#### First Author
+- **Agentic Refactoring: An Empirical Study of AI Coding Agents**  
+  **Kosei Horikawa**, Hao Li, Yutaro Kashiwa, Bram Adams, Hajimu Iida, Ahmed E. Hassan  
+  [arXiv:2511.04824](https://arxiv.org/abs/2511.04824) (2025)
+
 - **How Does Test Code Differ From Production Code in Terms of Refactoring? An Empirical Study**  
-  Kosei Horikawa, Yutaro Kashiwa, Bin Lin, Kenji Fujiwara, Hajimu Iida  
+  **Kosei Horikawa**, Yutaro Kashiwa, Bin Lin, Kenji Fujiwara, Hajimu Iida  
   [ICSME 2025 (NIER Track)](https://ieeexplore.ieee.org/document/11185926)
 
+#### Co-authored
+- **Do AI Agents Really Improve Code Readability?**  
+  Kyogo Horikawa, **Kosei Horikawa**, Yutaro Kashiwa, Hidetake Uwano, Hajimu Iida  
+  [arXiv:2603.13723](https://arxiv.org/abs/2603.13723) (2026)
+
+- **Testing with AI Agents: An Empirical Study of Test Generation Frequency, Quality, and Coverage**  
+  Suzuka Yoshimoto, Shun Fujita, **Kosei Horikawa**, Daniel Feitosa, Yutaro Kashiwa, Hajimu Iida  
+  [arXiv:2603.13724](https://arxiv.org/abs/2603.13724) (2026)
+
 - **An Empirical Investigation into Maintenance of Load Testing Scripts**  
-  Ibuki Nakamura, Kosei Horikawa, Brittany Reid, Yutaro Kashiwa, Hajimu Iida  
+  Ibuki Nakamura, **Kosei Horikawa**, Brittany Reid, Yutaro Kashiwa, Hajimu Iida  
   [ESEM 2025 (ERVT Track)](https://conf.researchr.org/details/esem-2025/esem-2025-vision-and-emerging-results-track-/5/An-Empirical-Investigation-into-Maintenance-of-Load-Testing-Scripts)
 
 ### 🏆 Awards
